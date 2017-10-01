@@ -1,45 +1,0 @@
-document.write("<table cellpadding='5' cellspacing='5' border='0' bordercolor='#FF0000' align='left'>");
-document.write("<tr  valign='top'>");
-document.write(" <td align=center><a href='index.html'><img src='images/KIblue_yellow.jpg' width='175' border='0'></a></td>");
-document.write("</tr>");
-document.write("<tr  valign='top'>");
-//document.write(" <td align=center><a href='mailto:contact@kayakinstruct.com?subject=Add%20to%20mailing%20list'>Join Mailing List</a></td>");
-document.write("</tr>");
-document.write("<tr  valign='top'>");
-document.write(" <td align=center><a href='paypal_payment.html'><font color='red' onMouseOver="+""+"color='green'"+""+" onMouseOut="+""+"color='red'"+""+" face=helvetica size=2><b>Make a Payment</b></font></a></td>");
-document.write("</tr>");
-document.write("<tr  valign='top'>");
-document.write(" <td align=center><a href='kayakrental.html'><font color='#6d6b6b' onMouseOver="+""+"color='red'"+""+" onMouseOut="+""+"color='#6d6b6b'"+""+" face=helvetica size=2><b>kayak rental</b></font></a></td>");
-document.write("</tr>");
-document.write("<tr  valign='top'>");
-document.write(" <td align=center><a href='company_overview.html'><font color='#6d6b6b' onMouseOver="+""+"color='red'"+""+" onMouseOut="+""+"color='#6d6b6b'"+""+" face=helvetica size=2><b>company overview</b></font></a></td>");
-document.write("</tr>");
-document.write("<tr  valign='top'>");
-document.write(" <td align=center><a href='newsletter.html'><font color='#6d6b6b' onMouseOver="+""+"color='red'"+""+" onMouseOut="+""+"color='#6d6b6b'"+""+" face=helvetica size=2><b>newsletter</b></font></a></td>");
-document.write("</tr>");
-document.write("<tr  valign='top'>");
-document.write(" <td align=center><a href='description_whykayak.html'><font color='#6d6b6b' onMouseOver="+""+"color='red'"+""+" onMouseOut="+""+"color='#6d6b6b'"+""+" face=helvetica size=2><b>course descriptions</b></font></a></td>");
-document.write("</tr>");
-document.write("<tr  valign='top'>");
-document.write(" <td align=center><a href='calendar.html'><font color='#6d6b6b' onMouseOver="+""+"color='red'"+""+" onMouseOut="+""+"color='#6d6b6b'"+""+" face=helvetica size=2><b>class & clinic schedule</b></font></a></td>");
-document.write("</tr>");
-document.write("<tr  valign='top'>");
-document.write(" <td align=center><a href='shameless_self_promotion.html'><font color='#6d6b6b' onMouseOver="+""+"color='red'"+""+" onMouseOut="+""+"color='#6d6b6b'"+""+" face=helvetica size=2><b>shameless self promotion</b></font></a></td>");
-document.write("</tr>");
-document.write("<tr  valign='top'>");
-document.write(" <td align=center><a href='contact_information.html'><font color='#6d6b6b' onMouseOver="+""+"color='red'"+""+" onMouseOut="+""+"color='#6d6b6b'"+""+" face=helvetica size=2><b>contact information</b></font></a></td>");
-document.write("</tr>");
-document.write("<tr  valign='top'>");
-document.write(" <td align=center><a href='maps.html'><font color='#6d6b6b' onMouseOver="+""+"color='red'"+""+" onMouseOut="+""+"color='#6d6b6b'"+""+" face=helvetica size=2><b>maps</b></font></a></td>");
-document.write("</tr>");
-document.write("<tr  valign='top'>");
-document.write(" <td align=center><a href='links.html'><font color='#6d6b6b' onMouseOver="+""+"color='red'"+""+" onMouseOut="+""+"color='#6d6b6b'"+""+" face=helvetica size=2><b>links</b></font></a></td>");
-document.write("</tr>");
-//document.write("<tr  valign='top'>");//document.write(" <td align=center><a href='Fleet_2011.pdf'><font color='#6d6b6b' onMouseOver="+""+"color='red'"+""+" onMouseOut="+""+"color='#6d6b6b'"+""+" face=helvetica size=2><b>fleet sales</b></font></a></td>");//document.write("</tr>");
-document.write("<tr  valign='top'>");
-document.write(" <td align=center><a href='jaxrec.html'><img src=jkmenuimages/jksdsm.gif border=0 align=absbottom></a></td>");
-document.write("</tr>");
-document.write("<tr  valign='top'>");
-document.write(" <td align=center><a href='werner/paddles/tybeefg.html'><img src=werner/images/werner_logo.jpg border=0 align=absbottom width=150></a></td>");
-document.write("</tr>");
-document.write("</table>");
